@@ -1,6 +1,3 @@
-Name:Nujhat Khandker Charza
-Id: 22201125
-Sec: c2
 
 # CSE 433: Peer-to-Peer Network Communication & File Sharing
 
